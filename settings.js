@@ -27,7 +27,7 @@ global.botname = 'MADDGAMER99' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
+global.themeemoji = "😼" //ur theme emoji
 global.packname = "BY MADDGAMER99" //ur sticker watermark packname
 global.author = "MADDGAMER99" //ur sticker watermark author
 global.wm = "MADDGAMER99" //ur watermark
@@ -40,7 +40,7 @@ global.sp = ''
 //messages
 global.mess = {
     success: 'Here you go!',
-    admin: 'REst Bro, This feature could be used by admins only!',
+    admin: 'REST BRO ☠️, This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
